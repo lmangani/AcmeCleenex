@@ -12,9 +12,7 @@ Manipulation rule names must match the expression “^[[alpha:]][[:alnum:]_]+$�
 • Contain at least one lower case letter
 ```
 
-When upgrading a system running release 6.1 (or lower) with numerous existing rules, case warnings are generated.
-
-Example:
+When upgrading a system running release 6.1 (or lower) with numerous existing rules, case warnings are generated. An example warning:
 ```
 WARNING: element-rule [CLI] name contains invalid characters. Use characters that match the expression ^[[:alpha:]][[:alnum:]_]+$
 ```
