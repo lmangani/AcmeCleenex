@@ -1,5 +1,5 @@
 # AcmeCleenex
-ACME Packet / Oracle SBC 3800/4500: Name restrictions for manipulation rules Helper script for 6.2+ upgrades
+ACME Packet SBC 3800/4500: Name restrictions for manipulation rules Helper script for 6.2+ upgrades
 
 
 ## Case in Point
